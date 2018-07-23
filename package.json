@@ -1,0 +1,24 @@
+{
+  "name": "practice3",
+  "version": "1.0.0",
+  "description": "this is a chat application built using nodejs & expressjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imgisoft/Practice3.git"
+  },
+  "author": "Mayur Agarwal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imgisoft/Practice3/issues"
+  },
+  "homepage": "https://github.com/imgisoft/Practice3#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.3"
+  }
+}
